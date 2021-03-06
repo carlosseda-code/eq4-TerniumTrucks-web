@@ -18,7 +18,6 @@ function App() {
         <Route component={CreateProfile}/>
       </Switch>
     </Router>
-   
   );
 }
 
